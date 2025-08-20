@@ -1,0 +1,16 @@
+Tweet_ID,Topic,Sentiment,Tweet
+1,BrandA,Positive,"I love BrandA, their service is excellent!"
+2,BrandB,Negative,BrandB has disappointed me again.
+3,BrandA,Neutral,"BrandA is okay, nothing special."
+4,BrandC,Positive,Super happy with BrandC products!
+5,BrandB,Negative,"Worst experience with BrandB, never again."
+6,BrandC,Neutral,"BrandC is average, could be better."
+7,BrandA,Positive,BrandA exceeded my expectations!
+8,BrandB,Negative,I hate how BrandB treats customers.
+9,BrandC,Positive,"BrandC makes me feel good, love it!"
+10,BrandA,Neutral,"BrandA is fine, neutral thoughts."
+11,BrandB,Negative,BrandB always fails to deliver.
+12,BrandC,Positive,Amazing service from BrandC!
+13,BrandA,Neutral,"BrandA is okayish, not bad."
+14,BrandB,Negative,BrandB has the worst quality ever.
+15,BrandC,Positive,BrandC always impresses me.
